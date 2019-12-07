@@ -1,0 +1,12 @@
+{
+    "require": {
+        "dnetix/redirection": "^0.6.0",
+        "jaredchu/simple-cache": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Librerias\\": "librerias/",
+            "Objetos\\": "objetos/"
+        }
+    }
+}

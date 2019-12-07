@@ -1,0 +1,8 @@
+.danger_alert{
+    background-color: red;
+    color: white;
+}
+.success_alert{
+    background-color: green;
+    color: white;
+}
